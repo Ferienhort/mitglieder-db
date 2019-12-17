@@ -1,2 +1,2 @@
 # mitglieder-db
-Erweiterung der Mitglieder-DB des Ferienhorts
+In diesem Projekt wird die Mitglieder-DB auf Basis von Tine 2.0 weiterentwickelt um die speziellen Ferienhort-Anforderungen einzubauen.
